@@ -23,7 +23,7 @@ Issue-to-Resolution covers how a customer issue is logged, triaged, worked and c
 ## Process flow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Customer reports issue<br/>portal, email, phone] --> B[Case created<br/>CRM]
     B --> C{Valid entitlement?}
     C -- No --> D[Route to renewals]

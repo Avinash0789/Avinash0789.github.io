@@ -23,7 +23,7 @@ Plan-to-Produce covers how the company forecasts demand, plans supply, buys comp
 ## Process flow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Sales forecast and<br/>bookings] --> B[Demand plan<br/>Planning tool]
     B --> C[Supply plan and<br/>constraints]
     C --> D[Planned orders]

@@ -23,7 +23,7 @@ Hire-to-Retire covers the employee lifecycle – from an approved job requisitio
 ## Process flow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Job requisition<br/>approved] --> B[Recruiting and<br/>interviews]
     B --> C[Offer accepted]
     C --> D[Pre-hire record<br/>HCM]

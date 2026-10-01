@@ -23,7 +23,7 @@ Plan-to-Implement describes how a business request becomes a released change in 
 ## Process flow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Business request<br/>Jira intake] --> B[Triage and<br/>prioritisation]
     B --> C{Approved?}
     C -- No --> X[Closed / backlog]

@@ -23,7 +23,7 @@ When a customer buys professional services – such as installation, migration o
 ## Process flow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Services order booked<br/>CRM] --> B[Project created<br/>PSA]
     B --> C[Project manager<br/>assigned]
     C --> D[Resources requested<br/>and staffed]

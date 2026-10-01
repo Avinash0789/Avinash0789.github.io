@@ -23,7 +23,7 @@ Campaign-to-Order covers the journey from a marketing campaign to a booked order
 ## Process flow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Campaign launched<br/>Marketing automation] --> B[Lead captured<br/>and scored]
     B --> C{Marketing qualified?}
     C -- No --> N[Nurture programme]
