@@ -1,0 +1,48 @@
+# Case study: Creating and training an AI knowledge agent
+
+!!! info "About this case study"
+    Describes my approach on a real project. Internal content, names and screenshots are left out for confidentiality.
+
+## At a glance
+
+| Item | Details |
+|---|---|
+| **Role** | Technical Content Developer |
+| **Platform** | Glean (enterprise AI search and agents) |
+| **Knowledge domain** | G&A IT Systems applications – Salesforce, NetSuite, Boomi, Workday, Zuora and others |
+| **Users** | Delivery teams and business users |
+
+## The problem
+
+Delivery teams and business users regularly needed quick answers about how the business applications and processes worked. Finding the right page – or the right person – took time, and answers weren't always consistent.
+
+## My approach
+
+### 1. Defined the agent's purpose
+
+I agreed with stakeholders on who the agent was for, what questions it should answer, and what was out of scope.
+
+### 2. Connected the right sources
+
+I connected the agent to the curated documentation repository and other approved sources, and left out drafts and outdated content so answers came from trusted pages.
+
+### 3. Wrote the agent instructions
+
+I configured the agent's instructions – audience, tone, scope, and rules such as *always cite the source page* and *say when no source covers the question*.
+
+### 4. Trained and tested it
+
+I tested the agent with real questions from users, reviewed the answers against the source documentation, and improved both the instructions and the underlying pages where answers were weak or missing.
+
+### 5. Rolled it out
+
+I made the agent available to delivery teams and business users so they could get source-based answers without searching through multiple spaces.
+
+## The outcome
+
+- Delivery teams and business users can ask questions in plain language and get answers with links to the source documentation
+- The documentation repository and the agent reinforce each other: gaps in answers show where documentation needs improving
+
+## What I learned
+
+An AI agent is only as good as the content behind it. Most improvements came from **fixing and restructuring the documentation**, not from rewriting prompts. I've written up these lessons in [Writing documentation for an AI knowledge agent](../samples/ai-knowledge-base.md).
