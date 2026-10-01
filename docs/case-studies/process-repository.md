@@ -1,4 +1,14 @@
+---
+description: Case study – documenting seven end-to-end process streams and nine enterprise applications as structured Confluence repositories used for reviews, UAT and onboarding.
+---
+
 # Case study: Building a process documentation repository
+
+!!! abstract "60-second summary"
+    - **Problem:** knowledge about how the business applications worked together was spread across people, decks, tickets and old pages.
+    - **My role:** planned the structure, wrote the content with SMEs and organised it into a searchable hub.
+    - **Approach:** mapped the process streams, designed one information architecture, built reusable templates and reviewed every page with SMEs.
+    - **Outcome:** **7 end-to-end process streams**, each with its own Confluence repository, and **9 applications** documented – one place per stream for reviews, UAT, onboarding and knowledge transfer.
 
 !!! info "About this case study"
     Describes my approach on a real project. Internal content, names and screenshots are left out for confidentiality.
@@ -7,20 +17,24 @@
 
 | Item | Details |
 |---|---|
-| **Role** | Technical Content Developer, G&A IT Business Systems team |
-| **Applications** | Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday |
-| **Tools** | Confluence, Jira |
+| **Role** | Content Developer, Business Applications team |
+| **Applications** | Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday, Kinaxis, Kantata |
+| **Tools** | Confluence, Jira, Lucidchart |
 | **Audience** | Business analysts, developers, delivery teams, new joiners |
 
 ## The problem
 
 Knowledge about how the business applications worked together was spread across people, slide decks, tickets and old pages. Analysts and developers spent time asking around to understand a process before they could review a change, test it or onboard someone new.
 
+## My role
+
+I owned the repository's structure and content: mapping the streams, designing the page hierarchy and templates, writing the pages with SMEs and keeping them organised.
+
 ## My approach
 
 ### 1. Mapped the landscape
 
-I listed the end-to-end process streams the team supported – including Campaign-to-Order, Quote-to-Cash, Order-to-Cash, Procure-to-Pay, Plan-to-Produce, Issue-to-Resolution and HR processes – and the applications and integrations involved in each.
+I listed the end-to-end process streams the team supported – Campaign-to-Order (hardware and software), Quote-to-Cash, Order-to-Cash, Sales Order Management, Order Fulfilment, Hire-to-Retire and Issue-to-Resolution – and the applications and integrations involved in each, including Salesforce–NetSuite integration logic for account updates, exchange rates, credit evaluation and delivery orders.
 
 ### 2. Designed the information architecture
 
@@ -56,9 +70,16 @@ I wrote pages so that they work for both people and AI search – one topic per 
 
 ## The outcome
 
-- A single, structured repository for the team's process documentation
-- Used by analysts and developers for reviews, UAT and onboarding
+- **7** process streams, each with a dedicated Confluence repository covering the process, applications and integrations
+- **9** enterprise applications documented end to end
+- Application and stream pages – including the QA and Streams sections – organised into one structured, searchable knowledge hub
+- Used by business analysts, developers and testers for reviews, UAT, onboarding and knowledge transfer
 - A repeatable template and structure for adding new processes
+
+## What I'd do next
+
+- Add page owners and review dates to every page, with a quarterly review cycle
+- Use page analytics and search terms with no results to find gaps
 
 ## What I'd highlight
 
