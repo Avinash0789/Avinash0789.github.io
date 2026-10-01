@@ -42,27 +42,19 @@ At **Nutanix**, I document the G&A IT business applications stack and the end-to
 
 ``` mermaid
 flowchart LR
-  A[Campaign-to-Order] --> B[Quote-to-Cash]
-  B --> C[Order-to-Cash]
-  D[Plan-to-Produce] --> C
-  E[Procure-to-Pay]
-  F[Plan-to-Implement]
-  G[Issue-to-Resolution]
-  H[HR processes]
-  subgraph Sales & Revenue
-    A
-    B
-    C
+  subgraph S1["Sales and revenue"]
+    A[Campaign-to-Order] --> B[Quote-to-Cash] --> C[Order-to-Cash]
   end
-  subgraph Supply chain & Finance
-    D
-    E
+  subgraph S2["Supply chain and finance"]
+    D[Plan-to-Produce]
+    E[Procure-to-Pay]
   end
-  subgraph Delivery, Support & People
-    F
-    G
-    H
+  subgraph S3["Delivery, support and people"]
+    F[Plan-to-Implement]
+    G[Issue-to-Resolution]
+    H[HR processes]
   end
+  D --> C
 ```
 
 !!! note "About these samples"
