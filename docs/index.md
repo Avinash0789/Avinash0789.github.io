@@ -71,6 +71,12 @@ I document G&A IT business applications – Salesforce, NetSuite, Boomi, Zuora, 
 - [Building a process documentation repository](case-studies/process-repository.md) – how I planned and structured a Confluence space for multiple business applications and process streams.
 - [Creating and training an AI knowledge agent](case-studies/ai-agent.md) – how I set up an enterprise AI agent for delivery teams and business users.
 
+## Published work
+
+Public documentation I wrote and published in my previous role:
+
+- [Release notes – February 2024 (InsuredMine)](https://www.insuredmine.com/knowledge-base/release-notes-february-2024/){ target="_blank" } – customer-facing release notes for the InsuredMine insurance agency management platform, published on the InsuredMine knowledge base.
+
 ## Tools I work with
 
 | Area | Tools |
