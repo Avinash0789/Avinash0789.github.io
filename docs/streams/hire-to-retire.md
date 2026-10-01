@@ -2,12 +2,15 @@
 
 !!! info "Process documentation sample"
     Shows how I document an end-to-end HR process and the integrations that give employees access to the systems they need.
+    It mirrors the structure of my real process documentation at Nutanix, with company-specific details made generic for confidentiality.
 
 | Item | Details |
 |---|---|
 | **Process owner** | People Operations (HR) |
 | **Systems** | HCM (Workday), Integration platform (Boomi), identity and access management, ERP (NetSuite), Procurement (Coupa), CRM (Salesforce) |
 | **Audience** | HR operations, IT, business analysts, people managers, new joiners |
+| **Version** | 2.1 · Published |
+| **Approvers** | Process owner, lead business analyst |
 | **Last reviewed** | Quarterly |
 
 ## Overview

@@ -2,12 +2,15 @@
 
 !!! info "Process documentation sample"
     Shows how I document the delivery lifecycle that business systems teams follow to plan, build and release changes to enterprise applications.
+    It mirrors the structure of my real process documentation at Nutanix, with company-specific details made generic for confidentiality.
 
 | Item | Details |
 |---|---|
 | **Process owner** | Business Systems / IT PMO |
 | **Systems** | Jira, Confluence, application sandboxes (Salesforce, NetSuite, Workday and others), Integration platform (Boomi) |
 | **Audience** | Business analysts, developers, QA, product owners, business stakeholders |
+| **Version** | 2.1 · Published |
+| **Approvers** | Process owner, lead business analyst |
 | **Last reviewed** | Quarterly |
 
 ## Overview

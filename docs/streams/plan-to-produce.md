@@ -2,12 +2,15 @@
 
 !!! info "Process documentation sample"
     Shows how I document a supply chain process from demand planning to finished goods, across planning, procurement and ERP systems.
+    It mirrors the structure of my real process documentation at Nutanix, with company-specific details made generic for confidentiality.
 
 | Item | Details |
 |---|---|
 | **Process owner** | Supply Chain Operations |
 | **Systems** | Supply chain planning (Kinaxis), ERP (NetSuite), Procurement (Coupa), Integration platform (Boomi) |
 | **Audience** | Demand and supply planners, buyers, manufacturing operations, business analysts |
+| **Version** | 2.1 · Published |
+| **Approvers** | Process owner, lead business analyst |
 | **Last reviewed** | Quarterly |
 
 ## Overview

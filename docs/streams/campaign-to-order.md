@@ -2,12 +2,15 @@
 
 !!! info "Process documentation sample"
     Shows how I document a marketing-to-sales process that spans marketing automation, CRM and CPQ.
+    It mirrors the structure of my real process documentation at Nutanix, with company-specific details made generic for confidentiality.
 
 | Item | Details |
 |---|---|
 | **Process owner** | Marketing Operations and Sales Operations |
 | **Systems** | Marketing automation, CRM (Salesforce), CPQ, Integration platform (Boomi), ERP (NetSuite) |
 | **Audience** | Marketing ops, sales ops, business analysts, new joiners |
+| **Version** | 2.1 · Published |
+| **Approvers** | Process owner, lead business analyst |
 | **Last reviewed** | Quarterly |
 
 ## Overview

@@ -2,12 +2,15 @@
 
 !!! info "Process documentation sample"
     Shows how I document a customer support process, from case creation to resolution, returns and credits.
+    It mirrors the structure of my real process documentation at Nutanix, with company-specific details made generic for confidentiality.
 
 | Item | Details |
 |---|---|
 | **Process owner** | Customer Support Operations |
 | **Systems** | CRM / service cloud (Salesforce), Knowledge base, Integration platform (Boomi), ERP (NetSuite), Billing (Zuora) |
 | **Audience** | Support engineers, support operations, finance users, business analysts |
+| **Version** | 2.1 · Published |
+| **Approvers** | Process owner, lead business analyst |
 | **Last reviewed** | Quarterly |
 
 ## Overview
