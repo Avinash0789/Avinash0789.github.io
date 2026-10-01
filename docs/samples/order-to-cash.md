@@ -2,12 +2,15 @@
 
 !!! info "Sample document"
     Written to show how I document an end-to-end business process across integrated enterprise applications.
+    It mirrors the structure of my real process documentation at Nutanix, with company-specific details made generic for confidentiality.
 
 | Item | Details |
 |---|---|
 | **Process owner** | Finance Operations |
 | **Systems** | CRM (Salesforce), Integration platform (Boomi), ERP (NetSuite), Billing (Zuora) |
 | **Audience** | Business analysts, developers, finance users, new joiners |
+| **Version** | 2.1 · Published |
+| **Approvers** | Process owner, lead business analyst |
 | **Last reviewed** | Quarterly |
 
 ## Overview
@@ -46,6 +49,18 @@ flowchart TD
 | Order management | Validates the sales order in ERP and releases it for fulfilment |
 | Billing team | Creates subscriptions, generates and sends invoices |
 | Accounts receivable | Records payments, applies cash and follows up on overdue invoices |
+
+### RACI
+
+| Activity | Sales ops | Integration support | Order management | Billing | Accounts receivable | Finance controller |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
+| Book order in CRM | **R/A** | I | I | I | | |
+| Monitor and fix order sync | C | **R/A** | I | | | |
+| Validate and release sales order | C | | **R/A** | I | | |
+| Create subscription and invoice | | | C | **R/A** | I | |
+| Apply cash and chase overdue invoices | I | | | C | **R** | **A** |
+
+<small>**R** Responsible · **A** Accountable · **C** Consulted · **I** Informed – see the [glossary](../streams/glossary.md).</small>
 
 ## Process stages
 
