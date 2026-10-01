@@ -18,7 +18,7 @@ I enjoy taking complex systems and processes and making them easy to understand 
 ### Content Specialist – InsuredMine
 *Sep 2023 – Jun 2025 · Bengaluru*
 
-- Wrote feature documentation, release notes and knowledge base articles for insurance SaaS products
+- Wrote feature documentation, release notes and knowledge base articles for insurance SaaS products – for example, the [February 2024 release notes](https://www.insuredmine.com/knowledge-base/release-notes-february-2024/){ target="_blank" }
 - Worked with developers and testers to ensure technical accuracy
 
 ### Assistant Editor – Asia Business Outlook
