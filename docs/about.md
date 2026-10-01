@@ -1,0 +1,48 @@
+# About me
+
+I'm a Technical Writer and Content Developer based in **Bengaluru, India**, with 5+ years of experience across enterprise IT, B2B SaaS and technology media.
+
+I enjoy taking complex systems and processes and making them easy to understand – whether the reader is a developer, a business user or an AI agent.
+
+## Experience
+
+### Technical Content Developer – Nutanix
+*Jun 2025 – present · Bengaluru (hybrid)*
+
+- Document end-to-end process streams across G&A IT Systems applications: Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa and Workday
+- Built structured Confluence repositories used for reviews, UAT and onboarding
+- Created, configured and trained a Glean AI agent for delivery teams and business users
+- Work with the PMO team on presentations and support Quarterly Business Review (QBR) presentations
+- Gather business requirements from SMEs and track work in Jira and Confluence
+
+### Content Specialist – InsuredMine
+*Sep 2023 – Jun 2025 · Bengaluru*
+
+- Wrote feature documentation, release notes and knowledge base articles for insurance SaaS products
+- Worked with developers and testers to ensure technical accuracy
+
+### Assistant Editor – Asia Business Outlook
+*Nov 2022 – Sep 2023 · Bengaluru*
+
+- Oversaw digital and print content and led a team of writers and contributors
+
+### Senior Writer & Correspondent – Siliconindia
+*Oct 2021 – Nov 2022 · Bengaluru*
+
+- Wrote technology and business features for a B2B publication
+
+## Education
+
+**B.Tech, Civil Engineering** – Gandhi Engineering College, Bhubaneswar (2018)
+
+## Certifications & learning
+
+- Claude Academy: Claude with Google Cloud's Vertex AI – Anthropic
+- Claude Academy: Introduction to Model Context Protocol – Anthropic
+- Learn API Documentation with JSON and XML
+- Cert Prep: Scrum Master
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/avinash-barik-54a1ab194](https://www.linkedin.com/in/avinash-barik-54a1ab194/)
+- **Email:** [avinashbarik619@gmail.com](mailto:avinashbarik619@gmail.com)
