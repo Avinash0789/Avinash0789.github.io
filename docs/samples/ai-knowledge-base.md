@@ -1,7 +1,7 @@
 # Writing documentation for an AI knowledge agent
 
 !!! info "Sample document"
-    A guide based on my experience creating and training an enterprise AI agent. Examples are fictional.
+    A guide based on my experience creating and training an enterprise AI agent.
 
 AI agents such as Glean, Copilot or a custom LLM assistant don't *read* documentation the way people do. They search for chunks of content that match a question and generate an answer from them. If the source content is vague, duplicated or out of date, the answer will be too.
 
