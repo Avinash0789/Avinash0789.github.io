@@ -57,9 +57,6 @@ flowchart LR
   D --> C
 ```
 
-!!! note "About these samples"
-    My day-to-day work is internal and confidential, so every sample below is **recreated from scratch** for a fictional company, *Acme Corp*. The structure, style and approach match how I work; the names, data and figures are invented.
-
 ## Writing samples
 
 <div class="grid cards" markdown>
