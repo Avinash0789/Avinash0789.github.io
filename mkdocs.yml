@@ -43,6 +43,14 @@ nav:
       - AI documentation – Knowledge base for an AI agent: samples/ai-knowledge-base.md
       - Release notes: samples/release-notes.md
       - Knowledge base article: samples/kb-article.md
+  - Process streams:
+      - Campaign-to-Order: streams/campaign-to-order.md
+      - Order-to-Cash: samples/order-to-cash.md
+      - Delivery Apps: streams/delivery-apps.md
+      - Issue-to-Resolution: streams/issue-to-resolution.md
+      - Plan-to-Produce: streams/plan-to-produce.md
+      - Plan-to-Implement: streams/plan-to-implement.md
+      - Hire-to-Retire: streams/hire-to-retire.md
   - Case studies:
       - Building a process documentation repository: case-studies/process-repository.md
       - Creating and training an AI knowledge agent: case-studies/ai-agent.md
