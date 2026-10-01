@@ -1,7 +1,7 @@
 # Orders API reference
 
 !!! info "Sample document"
-    Fictional API. Shows how I structure REST API reference documentation.
+    Shows how I structure REST API reference documentation.
 
 The Orders API lets you create, retrieve and update customer orders in Acme Commerce.
 
