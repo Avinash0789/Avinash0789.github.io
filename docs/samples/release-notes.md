@@ -1,7 +1,7 @@
 # Release notes – Acme Agency Manager 4.2
 
 !!! info "Sample document"
-    Fictional insurance SaaS product. Shows how I write customer-facing release notes.
+    Shows how I write customer-facing release notes.
 
 **Release date:** 14 September 2026
 
