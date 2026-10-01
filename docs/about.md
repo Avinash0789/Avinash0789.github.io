@@ -1,8 +1,25 @@
 # About me
 
-I'm a Technical Writer and Content Developer based in **Bengaluru, India**, with 5+ years of experience across enterprise IT, B2B SaaS and technology media.
+I'm **Avinash Barik**, a Technical Writer and Content Developer based in **Bengaluru, India**, with 5+ years of experience across enterprise IT, B2B SaaS and technology media.
 
-I enjoy taking complex systems and processes and making them easy to understand – whether the reader is a developer, a business user or an AI agent.
+I take complex systems and business processes and make them easy to understand – whether the reader is a developer, a business user or an AI agent. Today I document how enterprise applications such as Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa and Workday work together across end-to-end process streams like Quote-to-Cash and Order-to-Cash.
+
+## What I do
+
+- **Process and system documentation** – end-to-end process flows, integration overviews, roles, handoffs and system landscapes
+- **SOPs and user guides** – step-by-step procedures that business users can follow on their own
+- **API documentation** – REST endpoints, authentication, JSON/XML examples and error handling
+- **Release notes and knowledge base articles** – clear, customer-facing updates and help content
+- **AI documentation** – structuring knowledge bases and training AI agents so they give accurate, source-based answers
+- **Docs-as-code** – Markdown, MkDocs, Git and GitHub, with automated publishing
+
+## How I work
+
+1. **Understand the audience** – who reads this, and what do they need to get done?
+2. **Learn from the experts** – interview SMEs, developers and business owners, and test the system myself
+3. **Structure first** – plan information architecture, templates and naming before writing
+4. **Write clearly** – plain language, task-based steps and visuals where they help
+5. **Review and maintain** – technical reviews, version control and regular updates so content stays accurate
 
 ## Experience
 
@@ -44,5 +61,14 @@ I enjoy taking complex systems and processes and making them easy to understand 
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/avinash-barik-54a1ab194](https://www.linkedin.com/in/avinash-barik-54a1ab194/)
-- **Email:** [avinashbarik619@gmail.com](mailto:avinashbarik619@gmail.com)
+I'm always happy to talk about documentation, knowledge management and AI-ready content. The best way to reach me is by email or LinkedIn.
+
+| Channel | Details |
+|---|---|
+| :material-email-outline: **Email** | [avinashbarik619@gmail.com](mailto:avinashbarik619@gmail.com) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/avinash-barik-54a1ab194](https://www.linkedin.com/in/avinash-barik-54a1ab194/){ target="_blank" } |
+| :fontawesome-brands-github: **GitHub** | [github.com/Avinash0789](https://github.com/Avinash0789){ target="_blank" } |
+| :material-map-marker-outline: **Location** | Bengaluru, Karnataka, India (IST, UTC+05:30) |
+
+[Email me :material-email:](mailto:avinashbarik619@gmail.com){ .md-button .md-button--primary }
+[Connect on LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/in/avinash-barik-54a1ab194/){ .md-button target="_blank" }
