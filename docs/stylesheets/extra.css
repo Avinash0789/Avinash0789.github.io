@@ -20,7 +20,10 @@
   --md-primary-fg-color: #312e81;
   --md-accent-fg-color: #2dd4bf;
   --md-default-bg-color: #0f1020;
+  --md-typeset-a-color: #a5b4fc;
 }
+[data-md-color-scheme="slate"] .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active { color: #a5b4fc; }
 
 /* ---------- Typography ---------- */
 .md-typeset h1, .md-typeset h2 { font-weight: 700; letter-spacing: -0.02em; }
