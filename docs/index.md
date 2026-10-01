@@ -1,5 +1,5 @@
 ---
-description: Avinash Barik – Content Developer in Bengaluru with 5+ years documenting enterprise apps (Salesforce, NetSuite, Boomi, Workday) and building AI-ready knowledge. Open to new roles.
+description: Avinash Barik – Senior Content Developer in Bengaluru with 5+ years documenting enterprise apps (Salesforce, NetSuite, Boomi, Workday) and building AI-ready knowledge. Open to new roles.
 hide:
   - navigation
   - toc
@@ -14,7 +14,7 @@ hide:
 
 <div markdown>
 
-<p class="ab-eyebrow">Content Developer · Enterprise Apps &amp; AI Documentation · 5+ years</p>
+<p class="ab-eyebrow">Senior Content Developer · Enterprise Apps &amp; AI Documentation · 5+ years</p>
 
 # Hi, I'm Avinash Barik
 
@@ -215,7 +215,7 @@ At **Nutanix**, I document the G&A IT business applications stack and the end-to
 <ol class="ab-timeline">
   <li class="is-current">
     <span class="ab-timeline__date">Jun 2025 – present</span>
-    <h3>Content Developer · Nutanix</h3>
+    <h3>Senior Content Developer · Nutanix</h3>
     <p>7 process streams and 9 enterprise applications documented in structured Confluence repositories; Salesforce–NetSuite integration logic; release notes and QA content. Configured and trained a Glean AI agent; supports PMO and QBR presentations.</p>
   </li>
   <li>

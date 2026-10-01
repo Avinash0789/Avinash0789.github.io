@@ -1,10 +1,10 @@
 ---
-description: About Avinash Barik – Content Developer in Bengaluru documenting enterprise applications, process streams and AI-ready knowledge.
+description: About Avinash Barik – Senior Content Developer in Bengaluru documenting enterprise applications, process streams and AI-ready knowledge.
 ---
 
 # About me
 
-I'm **Avinash Barik**, a Content Developer based in **Bengaluru, India**, with 5+ years of experience across enterprise IT, B2B SaaS and technology media.
+I'm **Avinash Barik**, a Senior Content Developer based in **Bengaluru, India**, with 5+ years of experience across enterprise IT, B2B SaaS and technology media.
 
 I take complex systems and business processes and make them easy to understand – whether the reader is a developer, a business user or an AI agent. Today I document how enterprise applications such as Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa and Workday work together across end-to-end process streams like Quote-to-Cash and Order-to-Cash.
 
@@ -30,7 +30,7 @@ I take complex systems and business processes and make them easy to understand �
 
 ## Experience
 
-### Content Developer – Nutanix
+### Senior Content Developer – Nutanix
 *Jun 2025 – present · Bengaluru (hybrid)*
 
 - Documented 7 end-to-end process streams – Campaign-to-Order (hardware and software), Quote-to-Cash, Order-to-Cash, Sales Order Management, Order Fulfilment, Hire-to-Retire and Issue-to-Resolution – each in its own Confluence repository covering the process, applications and integrations

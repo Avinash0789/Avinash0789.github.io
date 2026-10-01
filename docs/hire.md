@@ -13,7 +13,7 @@ hide:
     <img src="https://github.com/Avinash0789.png" alt="Avinash Barik" loading="lazy">
     <div>
       <h2>Avinash Barik</h2>
-      <p class="ab-recruit__role">Content Developer · Enterprise Apps &amp; AI Documentation</p>
+      <p class="ab-recruit__role">Senior Content Developer · Enterprise Apps &amp; AI Documentation</p>
       <p class="ab-avail"><span class="ab-avail__dot"></span>Open to full-time roles · Bengaluru or remote (India) · 30-day notice</p>
     </div>
   </div>
@@ -29,7 +29,7 @@ hide:
 
 | Item | Details |
 |---|---|
-| **Current role** | Content Developer, Nutanix (Business Applications team) · Jun 2025 – present |
+| **Current role** | Senior Content Developer, Nutanix (Business Applications team) · Jun 2025 – present |
 | **Experience** | 5+ years – enterprise IT documentation, B2B SaaS and technology media |
 | **Location** | Bengaluru, Karnataka, India |
 | **Work mode** | Hybrid or remote |
