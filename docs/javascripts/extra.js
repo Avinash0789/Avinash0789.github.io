@@ -307,8 +307,23 @@
     });
   }
 
+
+  /* ---------- "Last updated" line ---------- */
+  function initUpdated() {
+    var el = document.querySelector(".ab-updated");
+    if (!el || el.dataset.ready) return;
+    el.dataset.ready = "1";
+    fetch("https://api.github.com/repos/" + el.dataset.repo + "/commits?per_page=1")
+      .then(function (r) { if (!r.ok) throw 0; return r.json(); })
+      .then(function (c) {
+        if (!c[0]) return;
+        var d = new Date(c[0].commit.author.date);
+        el.textContent = "Last updated " + d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+      }).catch(function () {});
+  }
+
   function init() {
-    initTyped(); initCounters(); initMap(); initLibrary(); initStages(); initProgress(); initGitHub(); initReveal();
+    initTyped(); initCounters(); initMap(); initLibrary(); initStages(); initProgress(); initGitHub(); initUpdated(); initReveal();
   }
 
   if (window.document$ && typeof window.document$.subscribe === "function") window.document$.subscribe(init);
