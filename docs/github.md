@@ -14,7 +14,7 @@ hide:
     <div>
       <h2 class="ab-gh__name">Avinash Barik</h2>
       <p class="ab-gh__login"><a href="https://github.com/Avinash0789" target="_blank" rel="noopener">@Avinash0789</a></p>
-      <p class="ab-gh__bio">Senior Content Developer @ Nutanix · 5+ yrs technical writing · Docs for enterprise integrations</p>
+      <p class="ab-gh__bio">Content Developer @ Nutanix · 5+ years documenting enterprise apps and integrations</p>
       <p class="ab-gh__meta"><span data-gh="location">Bangalore, Karnataka, India</span> <span data-gh="joined"></span></p>
     </div>
   </div>

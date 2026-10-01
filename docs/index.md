@@ -1,4 +1,5 @@
 ---
+description: Avinash Barik – Content Developer in Bengaluru with 5+ years documenting enterprise apps (Salesforce, NetSuite, Boomi, Workday) and building AI-ready knowledge. Open to new roles.
 hide:
   - navigation
   - toc
@@ -13,7 +14,7 @@ hide:
 
 <div markdown>
 
-<p class="ab-eyebrow">Technical Writing Portfolio</p>
+<p class="ab-eyebrow">Content Developer · Enterprise Apps &amp; AI Documentation · 5+ years</p>
 
 # Hi, I'm Avinash Barik
 
@@ -21,8 +22,11 @@ hide:
 
 I turn complex enterprise systems and business processes into clear, structured documentation – for business users, developers and AI agents.
 
-[Explore my work :material-arrow-down:](#work-library){ .md-button .md-button--primary }
+[View my work :material-arrow-down:](#featured-work){ .md-button .md-button--primary }
+[Download resume :material-download:](assets/Avinash_Barik_CV.pdf){ .md-button download="Avinash_Barik_CV.pdf" }
 [Contact me :material-email-outline:](about.md#contact){ .md-button }
+
+<p class="ab-avail ab-avail--hero"><span class="ab-avail__dot"></span>Open to full-time roles · Bengaluru or remote (India) · 30-day notice</p>
 
 </div>
 
@@ -31,8 +35,24 @@ I turn complex enterprise systems and business processes into clear, structured 
 <div class="ab-stats">
   <div class="ab-stat"><strong data-count="5" data-suffix="+">5+</strong><span>years in documentation &amp; content</span></div>
   <div class="ab-stat"><strong data-count="9">9</strong><span>enterprise applications documented</span></div>
-  <div class="ab-stat"><strong data-count="8">8</strong><span>end-to-end process streams</span></div>
+  <div class="ab-stat"><strong data-count="7">7</strong><span>process streams documented, each with its own repository</span></div>
   <div class="ab-stat"><strong data-count="1">1</strong><span>AI knowledge agent built &amp; trained</span></div>
+</div>
+
+## Why hire me
+
+<div class="ab-why">
+  <div><strong>Enterprise process expert</strong><span>I document how Salesforce, NetSuite, Boomi, Zuora, Workday and more work together across Quote-to-Cash, Order-to-Cash and Hire-to-Retire – including the integration logic between them.</span></div>
+  <div><strong>AI-ready content</strong><span>I configured and trained a Glean AI agent on my documentation, and I structure content so both people and AI agents get accurate, source-based answers.</span></div>
+  <div><strong>Plans and delivers like a project</strong><span>I scope work with stakeholders, track it in Jira linked to Confluence, deliver in Agile cycles and support PMO and QBR presentations.</span></div>
+</div>
+
+## Featured work { #featured-work }
+
+<div class="ab-lib__grid ab-featured">
+  <a class="ab-card is-visible" href="samples/order-to-cash/"><span class="ab-card__type">Process documentation</span><h3>Order-to-Cash</h3><p>An end-to-end process across Salesforce, Boomi, NetSuite and Zuora – flow, RACI, field mapping and an interactive stage explorer.</p><span class="ab-card__tags">Read the process →</span></a>
+  <a class="ab-card is-visible" href="case-studies/ai-agent/"><span class="ab-card__type">Case study · AI</span><h3>Creating and training an AI knowledge agent</h3><p>How I set up a Glean agent that gives business users clear answers with links to the source page.</p><span class="ab-card__tags">Read the case study →</span></a>
+  <a class="ab-card is-visible" href="samples/before-after/"><span class="ab-card__type">Editing sample</span><h3>Before and after: editing an SME draft</h3><p>A developer's rough notes turned into a procedure anyone can follow – with notes on every change.</p><span class="ab-card__tags">See the edit →</span></a>
 </div>
 
 ## What I do
@@ -166,6 +186,26 @@ At **Nutanix**, I document the G&A IT business applications stack and the end-to
       <span class="ab-card__type">Case study</span><h3>Creating and training an AI knowledge agent</h3>
       <p>Setting up an enterprise AI agent for delivery teams and business users.</p>
       <span class="ab-card__tags">Glean</span></a>
+    <a class="ab-card" href="samples/before-after/" data-type="sample" data-sys="Boomi NetSuite Salesforce" data-keywords="editing rewrite sme draft before after procedure order sync error">
+      <span class="ab-card__type">Writing sample · Editing</span><h3>Before and after: editing an SME draft</h3>
+      <p>Rough developer notes rewritten into a clear, task-based procedure.</p>
+      <span class="ab-card__tags">Editing · SOP</span></a>
+    <a class="ab-card" href="samples/ux-writing/" data-type="sample" data-sys="" data-keywords="ux writing microcopy error message empty state tooltip onboarding ui product">
+      <span class="ab-card__type">Writing sample · UX</span><h3>UX writing: microcopy</h3>
+      <p>Error messages, empty states, confirmations and onboarding tooltips for a SaaS CRM.</p>
+      <span class="ab-card__tags">UX · Product writing</span></a>
+    <a class="ab-card" href="case-studies/agile-delivery/" data-type="case" data-sys="" data-keywords="agile jira confluence sprint planning stakeholders release notes project management pmo">
+      <span class="ab-card__type">Case study</span><h3>Delivering documentation in Agile cycles</h3>
+      <p>Scoping, tracking and delivering docs with Jira and Confluence.</p>
+      <span class="ab-card__tags">Jira · Confluence · Agile</span></a>
+    <a class="ab-card" href="case-studies/how-i-run-documentation/" data-type="case" data-sys="" data-keywords="lead manager process intake prioritise review style guide metrics governance">
+      <span class="ab-card__type">Approach</span><h3>How I run documentation</h3>
+      <p>Intake, prioritisation, templates, reviews, maintenance and metrics.</p>
+      <span class="ab-card__tags">Documentation lead</span></a>
+    <a class="ab-card" href="streams/glossary/" data-type="process" data-sys="Salesforce NetSuite Boomi Workday Kantata RevPro" data-keywords="glossary terms definitions mql rma cpq o2c q2c raci uat">
+      <span class="ab-card__type">Reference</span><h3>Glossary</h3>
+      <p>Enterprise process and application terms explained for new joiners.</p>
+      <span class="ab-card__tags">Reference</span></a>
   </div>
   <p class="ab-lib__empty" hidden>Nothing matches yet. <button type="button" class="ab-lib__reset">Clear filters</button></p>
 </div>
@@ -175,13 +215,13 @@ At **Nutanix**, I document the G&A IT business applications stack and the end-to
 <ol class="ab-timeline">
   <li class="is-current">
     <span class="ab-timeline__date">Jun 2025 – present</span>
-    <h3>Technical Content Developer · Nutanix</h3>
-    <p>End-to-end process streams and integrations across the G&amp;A IT applications stack. Built and trained a Glean AI agent; supports PMO and QBR presentations.</p>
+    <h3>Content Developer · Nutanix</h3>
+    <p>7 process streams and 9 enterprise applications documented in structured Confluence repositories; Salesforce–NetSuite integration logic; release notes and QA content. Configured and trained a Glean AI agent; supports PMO and QBR presentations.</p>
   </li>
   <li>
     <span class="ab-timeline__date">Sep 2023 – Jun 2025</span>
     <h3>Content Specialist · InsuredMine</h3>
-    <p>Feature documentation, release notes and knowledge base articles for insurance SaaS products.</p>
+    <p>User manuals, release notes, knowledge base articles, video tutorials and in-app help for an insurance SaaS CRM; redesigned the CRM onboarding journey.</p>
   </li>
   <li>
     <span class="ab-timeline__date">Nov 2022 – Sep 2023</span>
@@ -214,3 +254,5 @@ Public documentation I wrote and published in my previous role:
 [About me & contact :material-account:](about.md){ .md-button .md-button--primary }
 [LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/in/avinash-barik-54a1ab194/){ .md-button target="_blank" }
 [Live GitHub activity :fontawesome-brands-github:](github.md){ .md-button }
+
+<p class="ab-updated" data-repo="Avinash0789/Avinash0789.github.io"></p>
