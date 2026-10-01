@@ -66,6 +66,7 @@ I'm always happy to talk about documentation, knowledge management and AI-ready 
 | Channel | Details |
 |---|---|
 | :material-email-outline: **Email** | [avinashbarik619@gmail.com](mailto:avinashbarik619@gmail.com) |
+| :material-phone-outline: **Phone** | [+91 79781 27173](tel:+917978127173) |
 | :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/avinash-barik-54a1ab194](https://www.linkedin.com/in/avinash-barik-54a1ab194/){ target="_blank" } |
 | :fontawesome-brands-github: **GitHub** | [github.com/Avinash0789](https://github.com/Avinash0789){ target="_blank" } |
 | :material-map-marker-outline: **Location** | Bengaluru, Karnataka, India (IST, UTC+05:30) |
