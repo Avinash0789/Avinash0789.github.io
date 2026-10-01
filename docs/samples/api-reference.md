@@ -140,3 +140,9 @@ The API uses standard HTTP status codes and returns an error object:
 | 401 | `unauthorized` | Token is missing or invalid |
 | 404 | `not_found` | No order with that ID |
 | 429 | `rate_limited` | Too many requests – retry later |
+
+## Related documents
+
+- [Order-to-Cash process](order-to-cash.md)
+- [Campaign-to-Order process](../streams/campaign-to-order.md)
+- [Release notes example](release-notes.md)

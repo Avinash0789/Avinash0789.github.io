@@ -18,7 +18,7 @@ Order-to-Cash covers everything from the moment a customer's order is booked to 
 
 **In scope:** booked orders for subscription and one-time products, invoicing, payment collection and cash application.
 
-**Out of scope:** quoting and approvals (see *Quote-to-Cash*), returns and credit memos (see *Issue-to-Resolution*).
+**Out of scope:** quoting and approvals (see [Campaign-to-Order](../streams/campaign-to-order.md)), returns and credit memos (see [Issue-to-Resolution](../streams/issue-to-resolution.md)).
 
 ## Process flow
 
@@ -98,6 +98,7 @@ flowchart TD
 
 ## Related documents
 
-- Quote-to-Cash process
-- Issue-to-Resolution process
-- Integration error handling runbook
+- [Campaign-to-Order process](../streams/campaign-to-order.md)
+- [Issue-to-Resolution process](../streams/issue-to-resolution.md)
+- [Delivery Apps – Project-to-Delivery process](../streams/delivery-apps.md)
+- [API reference – Orders API](api-reference.md)

@@ -68,7 +68,8 @@ flowchart LR
 | "Invalid cost center" error | Cost center is closed or mistyped | Confirm the cost center with your finance partner |
 | Request stuck in approval for 3+ days | Approver is away | Use **Comment** to remind the approver or contact Procurement |
 
-## Related SOPs
+## Related documents
 
-- PROC-SOP-002: Onboarding a new vendor
-- PROC-SOP-006: Receiving goods against a purchase order
+- [Plan-to-Produce process](../streams/plan-to-produce.md)
+- [Hire-to-Retire process](../streams/hire-to-retire.md)
+- [Knowledge base article example](kb-article.md)

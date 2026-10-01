@@ -71,3 +71,9 @@ Show the owner and last-reviewed date on every page so stale content can be foun
 - [ ] Diagrams have a text summary
 - [ ] Owner and last-reviewed date are shown
 - [ ] Outdated versions are archived or removed
+
+## Related documents
+
+- [Case study – Creating and training an AI knowledge agent](../case-studies/ai-agent.md)
+- [Knowledge base article example](kb-article.md)
+- [Issue-to-Resolution process](../streams/issue-to-resolution.md)

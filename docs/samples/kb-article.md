@@ -40,7 +40,8 @@ Go to **Clients > Import history** to see how many clients were added, updated o
 | *Invalid email format* | Check for spaces or missing "@" in the email address |
 | *File type not supported* | Save the file as CSV, not XLSX |
 
-## Related articles
+## Related documents
 
-- How to export your client list
-- How to merge duplicate clients
+- [Release notes example](release-notes.md)
+- [Issue-to-Resolution process](../streams/issue-to-resolution.md)
+- [Knowledge base for an AI agent](ai-knowledge-base.md)

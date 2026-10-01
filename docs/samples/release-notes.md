@@ -43,3 +43,9 @@ Emails you send and receive in Outlook now appear on the matching client's timel
 - Custom fields on the client profile
 
 Questions? Contact **support@acme-example.com** or visit the Help Center.
+
+## Related documents
+
+- [Knowledge base article example](kb-article.md)
+- [Plan-to-Implement process](../streams/plan-to-implement.md)
+- [API reference – Orders API](api-reference.md)
