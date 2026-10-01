@@ -1,4 +1,4 @@
-<h1 align="center">Avinash Barik · Technical Writing Portfolio</h1>
+<h1 align="center">Avinash Barik · Content Developer Portfolio</h1>
 
 <p align="center">
   <b>Senior Content Developer · Technical Writer · Enterprise Apps Documentation</b><br>
