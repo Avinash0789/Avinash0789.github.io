@@ -1,7 +1,7 @@
 # SOP: Raising a purchase request
 
 !!! info "Sample document"
-    Fictional company and procurement system. Shows how I write a task-based standard operating procedure.
+    Shows how I write a task-based standard operating procedure.
 
 | Item | Details |
 |---|---|
