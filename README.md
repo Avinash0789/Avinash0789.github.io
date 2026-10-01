@@ -1,7 +1,7 @@
-<h1 align="center">Avinash Barik · Content Developer Portfolio</h1>
+<h1 align="center">Avinash Barik · Senior Content Developer Portfolio</h1>
 
 <p align="center">
-  <b>Content Developer · Enterprise Apps &amp; AI Documentation · 5+ years</b><br>
+  <b>Senior Content Developer · Enterprise Apps &amp; AI Documentation · 5+ years</b><br>
   Process documentation, SOPs, API references, release notes and AI knowledge bases
 </p>
 
@@ -20,7 +20,7 @@
 
 ## About
 
-I turn complex enterprise systems and business processes into clear, structured documentation for business users, developers and AI agents. **5+ years** across enterprise IT, B2B SaaS and technology media. Currently a **Content Developer at Nutanix**, documenting the G&A IT business applications stack – Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday, Kinaxis and Kantata.
+I turn complex enterprise systems and business processes into clear, structured documentation for business users, developers and AI agents. **5+ years** across enterprise IT, B2B SaaS and technology media. Currently a **Senior Content Developer at Nutanix**, documenting the G&A IT business applications stack – Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday, Kinaxis and Kantata.
 
 ## What's inside
 
