@@ -38,7 +38,7 @@ At **Nutanix**, I document the G&A IT business applications stack and the end-to
   <span>Salesforce</span><span>NetSuite</span><span>Boomi</span><span>Zuora</span><span>RevPro</span><span>Coupa</span><span>Workday</span><span>Kinaxis</span><span>Kantata</span>
 </div>
 
-### Process streams I document
+## Process streams I document
 
 ``` mermaid
 flowchart LR
@@ -50,12 +50,74 @@ flowchart LR
     E[Procure-to-Pay]
   end
   subgraph S3["Delivery, support and people"]
-    F[Plan-to-Implement]
+    F[Delivery Apps]
     G[Issue-to-Resolution]
-    H[HR processes]
+    I[Plan-to-Implement]
+    H[Hire-to-Retire]
   end
   D --> C
+  C --> F
 ```
+
+<div class="grid cards" markdown>
+
+-   :material-bullhorn-outline: **Campaign-to-Order**
+
+    ---
+
+    From marketing campaign to lead, opportunity, quote and booked order.
+
+    [:octicons-arrow-right-24: Read the process](streams/campaign-to-order.md)
+
+-   :material-cash-multiple: **Order-to-Cash**
+
+    ---
+
+    From booked order to invoice, payment and cash application.
+
+    [:octicons-arrow-right-24: Read the process](samples/order-to-cash.md)
+
+-   :material-truck-delivery-outline: **Delivery Apps**
+
+    ---
+
+    How sold services become staffed projects, tracked time, billing and revenue.
+
+    [:octicons-arrow-right-24: Read the process](streams/delivery-apps.md)
+
+-   :material-lifebuoy: **Issue-to-Resolution**
+
+    ---
+
+    Support cases, escalations, RMAs, credits and knowledge capture.
+
+    [:octicons-arrow-right-24: Read the process](streams/issue-to-resolution.md)
+
+-   :material-factory: **Plan-to-Produce**
+
+    ---
+
+    Demand and supply planning, purchase and work orders, finished goods.
+
+    [:octicons-arrow-right-24: Read the process](streams/plan-to-produce.md)
+
+-   :material-rocket-launch-outline: **Plan-to-Implement**
+
+    ---
+
+    How business requests are planned, built, tested and released in enterprise apps.
+
+    [:octicons-arrow-right-24: Read the process](streams/plan-to-implement.md)
+
+-   :material-account-group-outline: **Hire-to-Retire**
+
+    ---
+
+    The employee lifecycle and the worker integrations behind it.
+
+    [:octicons-arrow-right-24: Read the process](streams/hire-to-retire.md)
+
+</div>
 
 ## Writing samples
 
