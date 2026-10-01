@@ -99,6 +99,6 @@ flowchart TD
 
 ## Related documents
 
-- [Building a process documentation repository](../case-studies/process-repository.md)
+- [Case study – Building a process documentation repository](../case-studies/process-repository.md)
 - [Release notes example](../samples/release-notes.md)
-- Deployment checklist
+- [Hire-to-Retire process](hire-to-retire.md)

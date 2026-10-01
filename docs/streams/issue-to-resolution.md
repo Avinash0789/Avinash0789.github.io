@@ -96,4 +96,5 @@ flowchart TD
 
 - [Order-to-Cash process](../samples/order-to-cash.md)
 - [Knowledge base article example](../samples/kb-article.md)
-- Escalation matrix
+- [Delivery Apps – Project-to-Delivery process](delivery-apps.md)
+- [Knowledge base for an AI agent](../samples/ai-knowledge-base.md)

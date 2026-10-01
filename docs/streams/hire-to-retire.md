@@ -91,6 +91,6 @@ flowchart TD
 
 ## Related documents
 
-- [Raising a purchase request (SOP)](../samples/sop-purchase-request.md)
-- New joiner onboarding checklist
-- Worker integration error handling runbook
+- [SOP – Raising a purchase request](../samples/sop-purchase-request.md)
+- [Plan-to-Implement process](plan-to-implement.md)
+- [Issue-to-Resolution process](issue-to-resolution.md)

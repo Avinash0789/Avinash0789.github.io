@@ -95,6 +95,6 @@ flowchart TD
 
 ## Related documents
 
-- [Raising a purchase request (SOP)](../samples/sop-purchase-request.md)
-- Item master maintenance guide
-- Planning calendar
+- [SOP – Raising a purchase request](../samples/sop-purchase-request.md)
+- [Order-to-Cash process](../samples/order-to-cash.md)
+- [Plan-to-Implement process](plan-to-implement.md)

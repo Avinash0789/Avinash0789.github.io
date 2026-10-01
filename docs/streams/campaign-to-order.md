@@ -102,5 +102,5 @@ flowchart TD
 ## Related documents
 
 - [Order-to-Cash process](../samples/order-to-cash.md)
-- Lead routing rules reference
-- Quote approval matrix
+- [Delivery Apps – Project-to-Delivery process](delivery-apps.md)
+- [API reference – Orders API](../samples/api-reference.md)

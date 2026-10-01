@@ -95,5 +95,5 @@ flowchart TD
 ## Related documents
 
 - [Order-to-Cash process](../samples/order-to-cash.md)
-- Project template guide
-- Timesheet approval SOP
+- [Campaign-to-Order process](campaign-to-order.md)
+- [Issue-to-Resolution process](issue-to-resolution.md)
