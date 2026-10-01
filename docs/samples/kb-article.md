@@ -1,7 +1,7 @@
 # How to import clients from a spreadsheet
 
 !!! info "Sample document"
-    Fictional product. Shows how I write task-based knowledge base articles for end users.
+    Shows how I write task-based knowledge base articles for end users.
 
 You can add many clients at once by importing a CSV file instead of creating each client manually.
 
