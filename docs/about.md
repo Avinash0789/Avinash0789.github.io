@@ -26,9 +26,9 @@ I take complex systems and business processes and make them easy to understand �
 ### Technical Content Developer – Nutanix
 *Jun 2025 – present · Bengaluru (hybrid)*
 
-- Document end-to-end process streams across G&A IT Systems applications: Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa and Workday
-- Built structured Confluence repositories used for reviews, UAT and onboarding
-- Created, configured and trained a Glean AI agent for delivery teams and business users
+- Document end-to-end process streams – Campaign-to-Order, Quote-to-Cash, Order-to-Cash, Procure-to-Pay, Plan-to-Produce, Plan-to-Implement, Issue-to-Resolution and HR – across G&A IT Systems applications: Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday, Kinaxis and Kantata
+- Built structured Confluence repositories used by business analysts, QA and product teams for reviews, UAT and onboarding
+- Created, configured and trained a Glean AI agent that gives delivery teams and business users source-based answers on Salesforce, NetSuite, Boomi, Workday and Zuora
 - Work with the PMO team on presentations and support Quarterly Business Review (QBR) presentations
 - Gather business requirements from SMEs and track work in Jira and Confluence
 
