@@ -46,3 +46,9 @@ I made the agent available to delivery teams and business users so they could ge
 ## What I learned
 
 An AI agent is only as good as the content behind it. Most improvements came from **fixing and restructuring the documentation**, not from rewriting prompts. I've written up these lessons in [Writing documentation for an AI knowledge agent](../samples/ai-knowledge-base.md).
+
+## Related documents
+
+- [Knowledge base for an AI agent](../samples/ai-knowledge-base.md)
+- [Case study – Building a process documentation repository](process-repository.md)
+- [Issue-to-Resolution process](../streams/issue-to-resolution.md)

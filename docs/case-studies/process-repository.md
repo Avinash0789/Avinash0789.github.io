@@ -63,3 +63,9 @@ I wrote pages so that they work for both people and AI search – one topic per 
 ## What I'd highlight
 
 Good documentation is mostly **information architecture**. Once the structure and templates were right, each new page was faster to write and easier to find.
+
+## Related documents
+
+- [Plan-to-Implement process](../streams/plan-to-implement.md)
+- [Order-to-Cash process](../samples/order-to-cash.md)
+- [Case study – Creating and training an AI knowledge agent](ai-agent.md)
