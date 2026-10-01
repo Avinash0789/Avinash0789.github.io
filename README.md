@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/Avinash0789/Avinash0789.github.io/deploy.yml?branch=main&label=deploy&style=flat-square" alt="Deploy status">
   <img src="https://img.shields.io/github/last-commit/Avinash0789/Avinash0789.github.io?style=flat-square" alt="Last commit">
   <img src="https://img.shields.io/badge/built_with-MkDocs_Material-526CFE?style=flat-square" alt="Built with MkDocs Material">
 </p>
