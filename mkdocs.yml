@@ -26,6 +26,8 @@ theme:
     - navigation.top
     - navigation.footer
     - search.highlight
+    - search.suggest
+    - search.share
     - content.code.copy
     - content.tabs.link
   font:
@@ -54,6 +56,7 @@ nav:
   - Case studies:
       - Building a process documentation repository: case-studies/process-repository.md
       - Creating and training an AI knowledge agent: case-studies/ai-agent.md
+  - GitHub activity: github.md
   - About me: about.md
 
 markdown_extensions:
@@ -82,6 +85,9 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
 
 extra:
   social:
