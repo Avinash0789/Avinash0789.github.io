@@ -1,10 +1,11 @@
-site_name: Avinash Barik · Technical Writing Portfolio
+site_name: Avinash Barik · Content Developer Portfolio
 site_url: https://avinash0789.github.io/
 site_author: Avinash Barik
-site_description: Technical writing portfolio – enterprise application documentation, process docs, SOPs, API references and AI knowledge bases.
+site_description: Content developer portfolio – enterprise application documentation, process docs, SOPs, API references and AI knowledge bases.
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -38,6 +39,7 @@ theme:
 
 nav:
   - Home: index.md
+  - For recruiters: hire.md
   - Writing samples:
       - Process documentation – Order-to-Cash: samples/order-to-cash.md
       - SOP – Raising a purchase request: samples/sop-purchase-request.md
@@ -45,6 +47,8 @@ nav:
       - AI documentation – Knowledge base for an AI agent: samples/ai-knowledge-base.md
       - Release notes: samples/release-notes.md
       - Knowledge base article: samples/kb-article.md
+      - Before and after – Editing an SME draft: samples/before-after.md
+      - UX writing – Microcopy: samples/ux-writing.md
   - Process streams:
       - Campaign-to-Order: streams/campaign-to-order.md
       - Order-to-Cash: samples/order-to-cash.md
@@ -53,9 +57,12 @@ nav:
       - Plan-to-Produce: streams/plan-to-produce.md
       - Plan-to-Implement: streams/plan-to-implement.md
       - Hire-to-Retire: streams/hire-to-retire.md
+      - Glossary: streams/glossary.md
   - Case studies:
       - Building a process documentation repository: case-studies/process-repository.md
       - Creating and training an AI knowledge agent: case-studies/ai-agent.md
+      - Delivering documentation in Agile cycles: case-studies/agile-delivery.md
+      - How I run documentation: case-studies/how-i-run-documentation.md
   - GitHub activity: github.md
   - About me: about.md
 
@@ -96,4 +103,4 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Avinash0789
 
-copyright: © 2026 Avinash Barik · Technical Writing Portfolio
+copyright: © 2026 Avinash Barik · Content Developer Portfolio

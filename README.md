@@ -1,7 +1,7 @@
 <h1 align="center">Avinash Barik · Content Developer Portfolio</h1>
 
 <p align="center">
-  <b>Senior Content Developer · Technical Writer · Enterprise Apps Documentation</b><br>
+  <b>Content Developer · Enterprise Apps &amp; AI Documentation · 5+ years</b><br>
   Process documentation, SOPs, API references, release notes and AI knowledge bases
 </p>
 
@@ -20,7 +20,7 @@
 
 ## About
 
-I turn complex enterprise systems and business processes into clear, structured documentation for business users, developers and AI agents. **5+ years** across enterprise IT, B2B SaaS and technology media. Currently a **Technical Content Developer at Nutanix**, documenting the G&A IT business applications stack – Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday, Kinaxis and Kantata.
+I turn complex enterprise systems and business processes into clear, structured documentation for business users, developers and AI agents. **5+ years** across enterprise IT, B2B SaaS and technology media. Currently a **Content Developer at Nutanix**, documenting the G&A IT business applications stack – Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday, Kinaxis and Kantata.
 
 ## What's inside
 
@@ -35,6 +35,7 @@ I turn complex enterprise systems and business processes into clear, structured 
 | [Plan-to-Produce](https://avinash0789.github.io/streams/plan-to-produce/) | Demand and supply planning → purchase and work orders → finished goods |
 | [Plan-to-Implement](https://avinash0789.github.io/streams/plan-to-implement/) | Business request → requirements → build → UAT → release → hypercare |
 | [Hire-to-Retire](https://avinash0789.github.io/streams/hire-to-retire/) | Requisition → hire → onboarding → changes → offboarding |
+| [Glossary](https://avinash0789.github.io/streams/glossary/) | Process and application terms for new joiners |
 
 ### Writing samples
 
@@ -45,11 +46,15 @@ I turn complex enterprise systems and business processes into clear, structured 
 | [Knowledge base for an AI agent](https://avinash0789.github.io/samples/ai-knowledge-base/) | AI documentation |
 | [Release notes](https://avinash0789.github.io/samples/release-notes/) | Customer-facing release notes |
 | [Knowledge base article](https://avinash0789.github.io/samples/kb-article/) | Task-based help article |
+| [Before and after](https://avinash0789.github.io/samples/before-after/) | Editing an SME draft into a clear procedure |
+| [UX writing](https://avinash0789.github.io/samples/ux-writing/) | Error messages, empty states and onboarding microcopy |
 
 ### Case studies
 
 - [Building a process documentation repository](https://avinash0789.github.io/case-studies/process-repository/)
 - [Creating and training an AI knowledge agent](https://avinash0789.github.io/case-studies/ai-agent/)
+- [Delivering documentation in Agile cycles](https://avinash0789.github.io/case-studies/agile-delivery/)
+- [How I run documentation](https://avinash0789.github.io/case-studies/how-i-run-documentation/)
 
 ### Published work
 
@@ -58,7 +63,8 @@ I turn complex enterprise systems and business processes into clear, structured 
 ## Skills and tools
 
 **Documentation:** process flows, SOPs, integration docs, runbooks, API references, release notes, KB articles, user guides  
-**Authoring and docs-as-code:** Confluence, Markdown, MkDocs, MadCap Flare, DITA, Git, GitHub, VS Code  
+**Authoring and docs-as-code:** Confluence, Document360, Markdown, MkDocs, MadCap Flare, DITA XML, Git, GitHub, VS Code  
+**API and diagrams:** Postman, OpenAPI (Redocly), JSON, XML, Lucidchart, Mermaid  
 **Enterprise applications:** Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday, Kinaxis, Kantata  
 **AI:** Glean, Claude, Gemini, prompt engineering, Model Context Protocol (MCP)  
 **Ways of working:** Jira, Agile / Scrum, SME interviews, UAT support
@@ -70,6 +76,8 @@ This portfolio is written in Markdown and published as a website with a docs-as-
 ```
 docs/                 Markdown pages (home, samples, process streams, case studies, about)
 docs/stylesheets/     Custom theme (colours, hero, cards)
+docs/javascripts/     Interactive features (library search, process map, stage explorer, live GitHub data)
+overrides/            Social sharing previews
 mkdocs.yml            Site configuration and navigation
 .github/workflows/    GitHub Actions workflow that builds and deploys the site
 ```
@@ -87,7 +95,9 @@ mkdocs serve        # open http://127.0.0.1:8000
 
 - **Email:** [avinashbarik619@gmail.com](mailto:avinashbarik619@gmail.com)
 - **LinkedIn:** [linkedin.com/in/avinash-barik-54a1ab194](https://www.linkedin.com/in/avinash-barik-54a1ab194/)
+- **Phone:** +91 79781 27173
 - **Location:** Bengaluru, India
+- **Resume:** [Download PDF](https://avinash0789.github.io/assets/Avinash_Barik_CV.pdf) · [For recruiters](https://avinash0789.github.io/hire/)
 
 ---
 
