@@ -1,6 +1,6 @@
 # About me
 
-I'm **Avinash Barik**,Content Developer based in **Bengaluru, India**, with 5+ years of experience across enterprise IT, B2B SaaS and technology media.
+I'm **Avinash Barik**, working as a Content Developer based in **Bengaluru, India**, with 5+ years of experience across enterprise IT, B2B SaaS and technology media.
 
 I take complex systems and business processes and make them easy to understand – whether the reader is a developer, a business user or an AI agent. Today I document how enterprise applications such as Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa and Workday work together across end-to-end process streams like Quote-to-Cash and Order-to-Cash.
 
