@@ -17,7 +17,7 @@ description: Case study – documenting seven end-to-end process streams and nin
 
 | Item | Details |
 |---|---|
-| **Role** | Content Developer, Business Applications team |
+| **Role** | Senior Content Developer, Business Applications team |
 | **Applications** | Salesforce, NetSuite, Boomi, Zuora, RevPro, Coupa, Workday, Kinaxis, Kantata |
 | **Tools** | Confluence, Jira, Lucidchart |
 | **Audience** | Business analysts, developers, delivery teams, new joiners |

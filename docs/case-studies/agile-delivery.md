@@ -6,7 +6,7 @@ description: Case study – how I scope, plan, track and deliver documentation i
 
 !!! abstract "60-second summary"
     - **Problem:** documentation requests arrived informally and were hard to plan, track or prioritise alongside development work.
-    - **My role:** Content Developer – scoping, planning, writing and tracking the documentation.
+    - **My role:** Senior Content Developer – scoping, planning, writing and tracking the documentation.
     - **Approach:** turned each request into a scoped Jira ticket linked to its Confluence page, delivered in Agile cycles and reviewed with stakeholders.
     - **Outcome:** documentation became visible, trackable work that kept pace with what was built – including stream repositories, application pages, QA content and release notes.
 
@@ -17,7 +17,7 @@ description: Case study – how I scope, plan, track and deliver documentation i
 
 | Item | Details |
 |---|---|
-| **Role** | Content Developer, Business Applications team |
+| **Role** | Senior Content Developer, Business Applications team |
 | **Tools** | Jira, Confluence, Lucidchart |
 | **Stakeholders** | Business analysts, developers, QA, process owners, PMO |
 | **Deliverables** | Stream repositories, application pages, integration documentation, QA content, release notes |

@@ -17,7 +17,7 @@ description: Case study – configuring and training a Glean AI agent on structu
 
 | Item | Details |
 |---|---|
-| **Role** | Content Developer, Business Applications team |
+| **Role** | Senior Content Developer, Business Applications team |
 | **Platform** | Glean (enterprise AI search and agents) |
 | **Knowledge domain** | Salesforce, NetSuite, Boomi and the business workflows that connect them |
 | **Users** | Delivery teams and business users |
