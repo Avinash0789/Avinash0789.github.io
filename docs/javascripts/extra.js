@@ -24,6 +24,46 @@
     setTimeout(tick, 2200);
   }
 
+  /* ---------- Interactive motto: Clear | Simple & Visible ---------- */
+  function initMotto() {
+    var el = document.querySelector(".ab-motto");
+    if (!el || el.dataset.ready) return;
+    el.dataset.ready = "1";
+    function word(text, fx, hint) {
+      var letters = text.split("").map(function (c, i) {
+        return '<span class="ab-ch" style="--i:' + i + '">' + c + "</span>";
+      }).join("");
+      return '<button type="button" class="ab-mw ab-mw--' + fx + '" data-fx="' + fx + '" title="' + hint + '">' + letters + "</button>";
+    }
+    el.innerHTML = "Making Tech " + word("Clear", "clear", "Bring into focus") +
+      '<span class="ab-motto__sep" aria-hidden="true">|</span>' +
+      word("Simple", "simple", "Untangle") + " &amp; " + word("Visible", "visible", "Reveal");
+    el.setAttribute("aria-label", "Making Tech Clear, Simple and Visible");
+
+    function play(btn) {
+      if (reduceMotion) return;
+      if (btn.dataset.fx === "simple") {
+        btn.querySelectorAll(".ab-ch").forEach(function (c) {
+          c.style.setProperty("--dx", (Math.random() * 40 - 20).toFixed(0) + "px");
+          c.style.setProperty("--dy", (Math.random() * 30 - 15).toFixed(0) + "px");
+          c.style.setProperty("--r", (Math.random() * 70 - 35).toFixed(0) + "deg");
+        });
+      }
+      btn.classList.remove("is-play");
+      void btn.offsetWidth; /* restart animation */
+      btn.classList.add("is-play");
+      clearTimeout(btn._t);
+      btn._t = setTimeout(function () { btn.classList.remove("is-play"); }, 1300);
+    }
+    var btns = el.querySelectorAll(".ab-mw");
+    btns.forEach(function (b, i) {
+      b.addEventListener("mouseenter", function () { play(b); });
+      b.addEventListener("focus", function () { play(b); });
+      b.addEventListener("click", function () { play(b); });
+      setTimeout(function () { play(b); }, 400 + i * 650); /* intro sequence */
+    });
+  }
+
   /* ---------- Count-up stats ---------- */
   function initCounters() {
     var nodes = document.querySelectorAll(".ab-stat strong[data-count]");
@@ -323,7 +363,7 @@
   }
 
   function init() {
-    initTyped(); initCounters(); initMap(); initLibrary(); initStages(); initProgress(); initGitHub(); initUpdated(); initReveal();
+    initTyped(); initMotto(); initCounters(); initMap(); initLibrary(); initStages(); initProgress(); initGitHub(); initUpdated(); initReveal();
   }
 
   if (window.document$ && typeof window.document$.subscribe === "function") window.document$.subscribe(init);
