@@ -18,6 +18,8 @@ hide:
 
 # Hi, I'm Avinash Barik
 
+<p class="ab-motto">Making Tech Clear <span aria-hidden="true">|</span> Simple &amp; Visible</p>
+
 <p class="ab-tagline">I write <span class="ab-typed" data-words="process documentation|SOPs and user guides|API references|release notes|AI knowledge bases">process documentation</span></p>
 
 I turn complex enterprise systems and business processes into clear, structured documentation – for business users, developers and AI agents.
