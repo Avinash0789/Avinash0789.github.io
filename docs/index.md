@@ -69,6 +69,8 @@ At **Nutanix**, I document the G&A IT business applications stack and the end-to
 
 ## Process map
 
+I designed these process maps and created design documents for the business in **Lucidchart**, showing the systems, steps and handoffs in each flow.
+
 <p class="ab-hint">Hover or tap a process to preview it, then open the full documentation.</p>
 
 <div class="ab-map">
