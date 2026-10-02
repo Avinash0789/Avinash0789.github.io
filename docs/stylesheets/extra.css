@@ -50,7 +50,23 @@
 }
 .ab-hero h1 { color: #fff !important; margin: 0 0 0.3rem; font-size: 2.3rem; }
 .ab-hero .ab-motto { font-size: 1.25rem; font-weight: 700; letter-spacing: .02em; margin: 0 0 .35rem; color: #fff; }
-.ab-hero .ab-motto span { opacity: .6; margin: 0 .35rem; font-weight: 400; }
+.ab-hero .ab-motto .ab-motto__sep { opacity: .6; margin: 0 .35rem; font-weight: 400; }
+/* Interactive motto words */
+.ab-hero .ab-mw { all: unset; display: inline-block; position: relative; cursor: pointer; border-radius: 4px; transition: color .25s, transform .25s; }
+.ab-hero .ab-mw::after { content: ""; position: absolute; left: 0; right: 0; bottom: -3px; height: 2px; background: #a7f3d0; border-radius: 2px; transform: scaleX(0); transform-origin: left; transition: transform .35s ease; }
+.ab-hero .ab-mw:hover, .ab-hero .ab-mw:focus-visible { color: #a7f3d0; transform: translateY(-1px); }
+.ab-hero .ab-mw:hover::after, .ab-hero .ab-mw:focus-visible::after { transform: scaleX(1); }
+.ab-hero .ab-mw:focus-visible { outline: 2px solid #a7f3d0; outline-offset: 4px; }
+.ab-hero .ab-ch { display: inline-block; }
+/* Clear: blurry -> sharp focus pull */
+.ab-hero .ab-mw--clear.is-play { animation: ab-focus .9s ease-out both; }
+@keyframes ab-focus { from { filter: blur(7px); opacity: .35; letter-spacing: .18em; } to { filter: blur(0); opacity: 1; letter-spacing: normal; } }
+/* Simple: scattered letters settle into place */
+.ab-hero .ab-mw--simple.is-play .ab-ch { animation: ab-settle .75s cubic-bezier(.2,.9,.25,1.2) both; animation-delay: calc(var(--i) * 45ms); }
+@keyframes ab-settle { from { transform: translate(var(--dx, 0), var(--dy, 0)) rotate(var(--r, 0)); opacity: .25; } to { transform: none; opacity: 1; } }
+/* Visible: letters light up one by one with a glow */
+.ab-hero .ab-mw--visible.is-play .ab-ch { animation: ab-reveal .9s ease both; animation-delay: calc(var(--i) * 60ms); }
+@keyframes ab-reveal { 0% { opacity: .1; text-shadow: none; } 50% { opacity: 1; color: #a7f3d0; text-shadow: 0 0 12px rgba(167,243,208,.9); } 100% { opacity: 1; text-shadow: none; } }
 .ab-hero .ab-tagline { font-size: 1.05rem; opacity: 0.95; margin: 0 0 0.6rem; font-weight: 600; }
 .ab-hero p { margin: 0.4rem 0; }
 .ab-hero .md-button { margin: 0.8rem 0.5rem 0 0; color: #fff; border-color: rgba(255,255,255,0.8); }
@@ -266,7 +282,7 @@
 .md-typeset .ab-card.ab-reveal.is-visible:hover { transform: translateY(-5px); }
 
 @media (prefers-reduced-motion: reduce) {
-  .ab-hero, .ab-hero__blob, .ab-typed, .ab-timeline li::before { animation: none !important; }
+  .ab-hero, .ab-hero__blob, .ab-typed, .ab-mw, .ab-ch, .ab-timeline li::before { animation: none !important; }
   .ab-reveal { opacity: 1; transform: none; }
 }
 
