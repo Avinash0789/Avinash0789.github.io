@@ -37,7 +37,7 @@ hide:
 | **Open to** | Technical writer / content developer · documentation lead · AI documentation · UX and product writing · documentation-focused project roles |
 | **Languages** | English, Hindi, Odia |
 
-## Why hire me
+## Why hire me?
 
 <div class="ab-why ab-why--num">
   <div><strong>7</strong><span>end-to-end process streams documented at Nutanix, each with its own Confluence repository</span></div>
