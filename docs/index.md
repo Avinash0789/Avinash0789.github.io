@@ -41,7 +41,7 @@ I turn complex enterprise systems and business processes into clear, structured 
   <div class="ab-stat"><strong data-count="1">1</strong><span>AI knowledge agent built &amp; trained</span></div>
 </div>
 
-## Why hire me
+## Why hire me?
 
 <div class="ab-why">
   <div><strong>Enterprise process expert</strong><span>I document how Salesforce, NetSuite, Boomi, Zuora, Workday and more work together across Quote-to-Cash, Order-to-Cash and Hire-to-Retire – including the integration logic between them.</span></div>
