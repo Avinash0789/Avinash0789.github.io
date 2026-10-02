@@ -49,6 +49,8 @@
   flex-shrink: 0;
 }
 .ab-hero h1 { color: #fff !important; margin: 0 0 0.3rem; font-size: 2.3rem; }
+.ab-hero .ab-motto { font-size: 1.25rem; font-weight: 700; letter-spacing: .02em; margin: 0 0 .35rem; color: #fff; }
+.ab-hero .ab-motto span { opacity: .6; margin: 0 .35rem; font-weight: 400; }
 .ab-hero .ab-tagline { font-size: 1.05rem; opacity: 0.95; margin: 0 0 0.6rem; font-weight: 600; }
 .ab-hero p { margin: 0.4rem 0; }
 .ab-hero .md-button { margin: 0.8rem 0.5rem 0 0; color: #fff; border-color: rgba(255,255,255,0.8); }
