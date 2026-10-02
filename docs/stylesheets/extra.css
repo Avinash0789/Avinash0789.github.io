@@ -298,3 +298,7 @@
 @media (max-width: 600px) { .ab-recruit__head { flex-direction: column; text-align: center; } .ab-recruit__actions { justify-content: center; } }
 
 .ab-updated { text-align: center; font-size: .72rem; color: var(--ab-fg-soft); margin-top: 2rem; }
+
+
+/* Header search as an icon on desktop: click the magnifier to open search */
+@media screen and (min-width: 60em) { .md-header__button[for="__search"] { display: inline-block; } [data-md-toggle="search"]:not(:checked) ~ .md-header .md-search { display: none; } [data-md-toggle="search"]:checked ~ .md-header .md-header__button[for="__search"] { display: none; } }
