@@ -65,6 +65,7 @@ nav:
       - How I run documentation: case-studies/how-i-run-documentation.md
   - GitHub activity: github.md
   - About me: about.md
+  - Freelance services: https://avinash0789.github.io/services/
 
 markdown_extensions:
   - admonition

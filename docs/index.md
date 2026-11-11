@@ -27,6 +27,7 @@ I turn complex enterprise systems and business processes into clear, structured 
 [View my work :material-arrow-down:](#featured-work){ .md-button .md-button--primary }
 [Download resume :material-download:](assets/Avinash_Barik_CV.pdf){ .md-button download="Avinash_Barik_CV.pdf" }
 [Contact me :material-email-outline:](about.md#contact){ .md-button }
+[Freelance services :material-open-in-new:](https://avinash0789.github.io/services/){ .md-button target="_blank" rel="noopener" }
 
 <p class="ab-avail ab-avail--hero"><span class="ab-avail__dot"></span>Open to full-time roles · Bengaluru or remote (India) · 30-day notice</p>
 

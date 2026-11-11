@@ -22,6 +22,7 @@ hide:
     <a class="md-button" href="mailto:avinashbarik619@gmail.com">avinashbarik619@gmail.com</a>
     <a class="md-button" href="tel:+917978127173">+91 79781 27173</a>
     <a class="md-button" href="https://www.linkedin.com/in/avinash-barik-54a1ab194/" target="_blank" rel="noopener">LinkedIn</a>
+    <a class="md-button" href="https://avinash0789.github.io/services/" target="_blank" rel="noopener">Freelance services</a>
   </div>
 </div>
 
